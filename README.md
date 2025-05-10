@@ -24,7 +24,7 @@ This project was built to demonstrate full-stack development capabilities using 
 
 ## 🎥 Visual Demo
 
-👉 Live App: [Deployed Link](https://your-deployed-app.vercel.app)
+👉 Live App: [Deployed Link](https://aesthetic-daifuku-364cd3.netlify.app/login)
 
 ---
 
