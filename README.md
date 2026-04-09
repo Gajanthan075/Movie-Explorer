@@ -32,7 +32,7 @@ This project was built to demonstrate full-stack development capabilities using 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://gitlab.com/your-username/movie-explorer.git
+   git clone https://gitlab.com/Gajanthan075/movie-explorer.git
    cd movie-explorer
    ```
 
